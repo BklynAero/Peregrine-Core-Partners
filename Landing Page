@@ -1,0 +1,165 @@
+<!DOCTYPE html><html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Peregrine Core Partners</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', sans-serif;
+      background-color: #0A1D37;
+      color: #F4F4F9;
+    }
+    header {
+      background-color: #1C6E8C;
+      padding: 2rem;
+      text-align: center;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 2.5rem;
+    }
+    header p {
+      font-size: 1.25rem;
+      margin-top: 0.5rem;
+    }
+    section {
+      padding: 2rem;
+      max-width: 1000px;
+      margin: 0 auto;
+    }
+    h2 {
+      color: #FF6B35;
+    }
+    .taglines span {
+      display: block;
+      font-style: italic;
+      margin-bottom: 0.5rem;
+    }
+    .contact-form label, .contact-form input, .contact-form textarea {
+      display: block;
+      width: 100%;
+      margin-bottom: 1rem;
+      font-size: 1rem;
+    }
+    .contact-form input, .contact-form textarea {
+      padding: 0.5rem;
+      border: none;
+      border-radius: 4px;
+    }
+    .contact-form button {
+      background-color: #FF6B35;
+      color: white;
+      border: none;
+      padding: 0.75rem 1.5rem;
+      font-size: 1rem;
+      cursor: pointer;
+      border-radius: 4px;
+    }
+    .cta {
+      background-color: #1C6E8C;
+      padding: 2rem;
+      text-align: center;
+    }
+    .cta h2 {
+      margin-top: 0;
+      color: #F4F4F9;
+    }
+    .cta p {
+      font-size: 1.1rem;
+    }
+    .cta a {
+      display: inline-block;
+      margin-top: 1rem;
+      padding: 0.75rem 1.5rem;
+      background-color: #FF6B35;
+      color: white;
+      text-decoration: none;
+      border-radius: 4px;
+      font-weight: bold;
+    }
+    .calendly-inline-widget {
+      margin-top: 2rem;
+      min-width: 320px;
+      height: 700px;
+    }
+    footer {
+      background-color: #4A4A4A;
+      text-align: center;
+      padding: 1rem;
+      font-size: 0.9rem;
+      color: #F4F4F9;
+    }
+  </style>  <!-- Calendly Embed Script -->  <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>  <!-- Google Analytics (replace YOUR_GA_ID) -->  <script async src="https://www.googletagmanager.com/gtag/js?id=YOUR_GA_ID"></script>  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'YOUR_GA_ID');
+  </script>  <!-- LinkedIn Insight Tag (replace YOUR_PARTNER_ID) -->  <script type="text/javascript">
+    _linkedin_partner_id = "YOUR_PARTNER_ID";
+    window._linkedin_data_partner_ids = window._linkedin_data_partner_ids || [];
+    window._linkedin_data_partner_ids.push(_linkedin_partner_id);
+  </script>  <script type="text/javascript">
+    (function(l) {
+      if (!l){window.lintrk = function(a,b){window.lintrk.q.push([a,b])};window.lintrk.q=[]}
+      var s = document.getElementsByTagName("script")[0];
+      var b = document.createElement("script");
+      b.type = "text/javascript";b.async = true;
+      b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js";
+      s.parentNode.insertBefore(b, s);
+    })(window.lintrk);
+  </script>  <noscript>
+    <img height="1" width="1" style="display:none;" alt="" src="https://px.ads.linkedin.com/collect/?pid=YOUR_PARTNER_ID&fmt=gif" />
+  </noscript></head>
+<body>
+  <header>
+    <h1>Peregrine Core Partners</h1>
+    <p>Where Aerospace Engineering Meets Capital Strategy</p>
+  </header>  <section>
+    <h2>Vision</h2>
+    <p>To become the premier partner for venture and private equity firms investing in aerospace and deep tech, transforming technical complexity into strategic advantage.</p><h2>Mission</h2>
+<ul>
+  <li>To embed engineering-first rigor into investment processes.</li>
+  <li>To unlock founder-first deal flow in dual-use and aerospace supply chain markets.</li>
+  <li>To elevate fund performance with sharp technical diligence and LP-aligned storytelling.</li>
+</ul>
+
+<h2>Positioning</h2>
+<p>Cameron William Clark helps venture investors de-risk aerospace bets and win competitive deals by embedding engineering-first rigor, dual-use sourcing strategy, and LP-aligned storytelling into their fund operations.</p>
+
+<h2>Executive Overview</h2>
+<p>Cameron William Clark is a trusted advisor to venture capital and private equity firms investing in aerospace and deep tech. A former chief engineer with two decades of satellite and space systems leadership, he now brings engineering-first rigor to capital allocators seeking an edge. Cameron partners with new funds to sharpen investment theses, build sourcing systems around Tier II/III and dual-use startups, lead technical diligence, and elevate capital formation narratives. His advisory model supports fund managers through blueprint design, retained guidance, and incentive-aligned growth into full partner roles.</p>
+
+<h2>Taglines</h2>
+<div class="taglines">
+  <span>Engineer your fund’s edge.</span>
+  <span>Turning aerospace expertise into investment alpha.</span>
+  <span>Founder-First. LP-Ready. Technically Rigorous.</span>
+  <span>Guiding VCs from first check to first close.</span>
+</div>
+
+  </section>  <section class="cta">
+    <h2>Ready to Work Together?</h2>
+    <p>If you're a venture or private equity fund looking to strengthen your thesis, pipeline, or diligence with engineering-grade precision, let's talk.</p>
+    <a href="#calendly">Book a Discovery Call</a>
+  </section>  <section id="contact">
+    <h2>Contact</h2>
+    <form class="contact-form">
+      <label for="name">Name</label>
+      <input type="text" id="name" name="name" required /><label for="email">Email</label>
+  <input type="email" id="email" name="email" required />
+
+  <label for="message">Message</label>
+  <textarea id="message" name="message" rows="6" required></textarea>
+
+  <button type="submit">Send Message</button>
+</form>
+
+  </section>  <section id="calendly">
+    <h2>Schedule a Call</h2>
+    <div class="calendly-inline-widget" data-url="https://calendly.com/your-username/discovery-call"></div>
+  </section>  <footer>
+    &copy; 2025 Peregrine Core Partners. All rights reserved.
+  </footer>
+</body>
+</html>
